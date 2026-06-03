@@ -38,7 +38,7 @@ Enabled better segmentation and targeted analysis
 🎯 Behavioral insights (discounts, shipping, subscriptions)
 
 Screenshot
-![Customer Behavior Dashboard](images/dashboard.png)
+![Customer Behavior Dashboard](images/dashboard.PNG)
 
 🔍 Key Insights
 High-value customers are concentrated in specific age groups

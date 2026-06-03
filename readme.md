@@ -1,5 +1,4 @@
-# 🚀 Customer Behavior Analytics & Insights Engine
-
+# 🚀 Customer Behavior Analytics 
 ---
 
 ## 📊 Project Overview
